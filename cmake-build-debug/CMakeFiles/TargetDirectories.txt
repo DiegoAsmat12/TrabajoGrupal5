@@ -1,0 +1,3 @@
+D:/diego/Documents/Programacion II/Teoria/EjercicioGrupal5/cmake-build-debug/CMakeFiles/EjercicioGrupal5.dir
+D:/diego/Documents/Programacion II/Teoria/EjercicioGrupal5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/diego/Documents/Programacion II/Teoria/EjercicioGrupal5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
