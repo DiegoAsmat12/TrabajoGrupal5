@@ -61,14 +61,32 @@ build CMakeFiles/EjercicioGrupal5.dir/Cerebro.cpp.obj: CXX_COMPILER__EjercicioGr
   OBJECT_DIR = CMakeFiles\EjercicioGrupal5.dir
   OBJECT_FILE_DIR = CMakeFiles\EjercicioGrupal5.dir
 
-build CMakeFiles/EjercicioGrupal5.dir/Zonas.cpp.obj: CXX_COMPILER__EjercicioGrupal5_unscanned_Debug D$:/diego/Documents/Programacion$ II/Teoria/EjercicioGrupal5/Zonas.cpp || cmake_object_order_depends_target_EjercicioGrupal5
-  DEP_FILE = CMakeFiles\EjercicioGrupal5.dir\Zonas.cpp.obj.d
+build CMakeFiles/EjercicioGrupal5.dir/Memoria.cpp.obj: CXX_COMPILER__EjercicioGrupal5_unscanned_Debug D$:/diego/Documents/Programacion$ II/Teoria/EjercicioGrupal5/Memoria.cpp || cmake_object_order_depends_target_EjercicioGrupal5
+  DEP_FILE = CMakeFiles\EjercicioGrupal5.dir\Memoria.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\EjercicioGrupal5.dir
   OBJECT_FILE_DIR = CMakeFiles\EjercicioGrupal5.dir
 
-build CMakeFiles/EjercicioGrupal5.dir/Memoria.cpp.obj: CXX_COMPILER__EjercicioGrupal5_unscanned_Debug D$:/diego/Documents/Programacion$ II/Teoria/EjercicioGrupal5/Memoria.cpp || cmake_object_order_depends_target_EjercicioGrupal5
-  DEP_FILE = CMakeFiles\EjercicioGrupal5.dir\Memoria.cpp.obj.d
+build CMakeFiles/EjercicioGrupal5.dir/Infancia.cpp.obj: CXX_COMPILER__EjercicioGrupal5_unscanned_Debug D$:/diego/Documents/Programacion$ II/Teoria/EjercicioGrupal5/Infancia.cpp || cmake_object_order_depends_target_EjercicioGrupal5
+  DEP_FILE = CMakeFiles\EjercicioGrupal5.dir\Infancia.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\EjercicioGrupal5.dir
+  OBJECT_FILE_DIR = CMakeFiles\EjercicioGrupal5.dir
+
+build CMakeFiles/EjercicioGrupal5.dir/Adolescencia.cpp.obj: CXX_COMPILER__EjercicioGrupal5_unscanned_Debug D$:/diego/Documents/Programacion$ II/Teoria/EjercicioGrupal5/Adolescencia.cpp || cmake_object_order_depends_target_EjercicioGrupal5
+  DEP_FILE = CMakeFiles\EjercicioGrupal5.dir\Adolescencia.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\EjercicioGrupal5.dir
+  OBJECT_FILE_DIR = CMakeFiles\EjercicioGrupal5.dir
+
+build CMakeFiles/EjercicioGrupal5.dir/Adultez.cpp.obj: CXX_COMPILER__EjercicioGrupal5_unscanned_Debug D$:/diego/Documents/Programacion$ II/Teoria/EjercicioGrupal5/Adultez.cpp || cmake_object_order_depends_target_EjercicioGrupal5
+  DEP_FILE = CMakeFiles\EjercicioGrupal5.dir\Adultez.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\EjercicioGrupal5.dir
+  OBJECT_FILE_DIR = CMakeFiles\EjercicioGrupal5.dir
+
+build CMakeFiles/EjercicioGrupal5.dir/MayoriaDeEdad.cpp.obj: CXX_COMPILER__EjercicioGrupal5_unscanned_Debug D$:/diego/Documents/Programacion$ II/Teoria/EjercicioGrupal5/MayoriaDeEdad.cpp || cmake_object_order_depends_target_EjercicioGrupal5
+  DEP_FILE = CMakeFiles\EjercicioGrupal5.dir\MayoriaDeEdad.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\EjercicioGrupal5.dir
   OBJECT_FILE_DIR = CMakeFiles\EjercicioGrupal5.dir
@@ -81,7 +99,7 @@ build CMakeFiles/EjercicioGrupal5.dir/Memoria.cpp.obj: CXX_COMPILER__EjercicioGr
 #############################################
 # Link the executable EjercicioGrupal5.exe
 
-build EjercicioGrupal5.exe: CXX_EXECUTABLE_LINKER__EjercicioGrupal5_Debug CMakeFiles/EjercicioGrupal5.dir/main.cpp.obj CMakeFiles/EjercicioGrupal5.dir/Cerebro.cpp.obj CMakeFiles/EjercicioGrupal5.dir/Zonas.cpp.obj CMakeFiles/EjercicioGrupal5.dir/Memoria.cpp.obj
+build EjercicioGrupal5.exe: CXX_EXECUTABLE_LINKER__EjercicioGrupal5_Debug CMakeFiles/EjercicioGrupal5.dir/main.cpp.obj CMakeFiles/EjercicioGrupal5.dir/Cerebro.cpp.obj CMakeFiles/EjercicioGrupal5.dir/Memoria.cpp.obj CMakeFiles/EjercicioGrupal5.dir/Infancia.cpp.obj CMakeFiles/EjercicioGrupal5.dir/Adolescencia.cpp.obj CMakeFiles/EjercicioGrupal5.dir/Adultez.cpp.obj CMakeFiles/EjercicioGrupal5.dir/MayoriaDeEdad.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\EjercicioGrupal5.dir

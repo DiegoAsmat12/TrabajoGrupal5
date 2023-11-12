@@ -7,4 +7,12 @@ add_executable(EjercicioGrupal5 main.cpp
         Cerebro.cpp
         Cerebro.h
         Memoria.cpp
-        Memoria.h)
+        Memoria.h
+        Infancia.cpp
+        Infancia.h
+        Adolescencia.cpp
+        Adolescencia.h
+        Adultez.cpp
+        Adultez.h
+        MayoriaDeEdad.cpp
+        MayoriaDeEdad.h)

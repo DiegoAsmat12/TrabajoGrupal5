@@ -11,15 +11,15 @@ using namespace std;
 class Cerebro {
 protected:
     vector<Memoria*> memorias;
-    int acceptedCronolgicOrder;
+    int acceptedCronologicOrder;
 public:
     virtual ~Cerebro(){
         for(Memoria* memoria: memorias){
             delete memoria;
         }
     };
-    virtual void agregarMemoria(Memoria* memoria);
-
+    void agregarMemoria(Memoria* memoria);
+    
 };
 
 

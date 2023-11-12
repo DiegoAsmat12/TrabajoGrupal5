@@ -3,3 +3,9 @@
 //
 
 #include "Cerebro.h"
+
+void Cerebro::agregarMemoria(Memoria *memoria) {
+    if(memoria->getCronologicOrder()== acceptedCronologicOrder){
+        memorias.push_back(memoria);
+    }
+}
