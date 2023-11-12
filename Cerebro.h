@@ -11,7 +11,7 @@ using namespace std;
 class Cerebro {
 protected:
     vector<Memoria*> memorias;
-    int cronologicOrder;
+    int acceptedCronolgicOrder;
 public:
     virtual ~Cerebro(){
         for(Memoria* memoria: memorias){

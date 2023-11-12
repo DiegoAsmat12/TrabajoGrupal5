@@ -6,7 +6,5 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(EjercicioGrupal5 main.cpp
         Cerebro.cpp
         Cerebro.h
-        Zonas.cpp
-        Zonas.h
         Memoria.cpp
         Memoria.h)
